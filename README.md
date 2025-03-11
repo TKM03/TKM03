@@ -107,7 +107,7 @@ I am a dedicated AI and data science professional with a deep passion for unlock
 | Project                     | Description                                      | Tech Stack                      | Repository                          |
 |-----------------------------|--------------------------------------------------|----------------------------------|-------------------------------------|
 | **FYP**                     | Real-time object detection using NAO robot.      | OpenCV, MediaPipe                 | [🔗 Explore](https://github.com/TKM03/FYP)         |
-| **WEB SCRAPING**            | Automated scrape the data at specific website.   | Gradio, pandas, webdriver           | [🔗 Explore]((https://github.com/TKM03/WebScrape))            |
+| **WEB SCRAPING**            | Automated scrape the data at specific website.   | Gradio, pandas, webdriver           | [🔗 Explore](https://github.com/TKM03/WebScrape)            |
 | **DIAMOND PRICE PREDICTION** | Predict the price of the diamond.               | joblib, pandas, seaborn, matplotlib      | [🔗 Explore](https://github.com/TKM03/DATA-SCIENCE)       |
 
 ---
