@@ -13,7 +13,7 @@
 
 ---
 
-## About Me  
+🚀## **About Me**  
 <div align="center">
   <i>Driven by a passion for artificial intelligence and innovative technology</i>
 </div>  
