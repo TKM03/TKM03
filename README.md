@@ -13,7 +13,7 @@
 
 ---
 
-##🚀 **About Me**  
+## About Me 
 <div align="center">
   <i>Driven by a passion for artificial intelligence and innovative technology</i>
 </div>  
@@ -21,7 +21,7 @@ I am a dedicated AI and data science professional with a deep passion for unlock
 
 ---
 
-## Skill Set  
+## 🛠 Skill Set  
 <div align="center">
   <i>A toolbox of modern technologies</i>
 </div>
