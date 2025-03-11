@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Profile Banner" width="100%">
 </div>
 <div align="center">
-  # TKM 
+  <h1>TKM</h1> 
 </div> 
 <div align="center">
   <i>AI & Machine Learning Specialist | Data Science Enthusiast</i>  
