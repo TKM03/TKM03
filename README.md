@@ -26,7 +26,7 @@ I am a dedicated AI and data science professional with a deep passion for unlock
   <i>A toolbox of modern technologies</i>
 </div>
 
-### Programming Languages  
+### 🏆Programming Languages  
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white">
@@ -35,20 +35,20 @@ I am a dedicated AI and data science professional with a deep passion for unlock
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
 </div>
 
-### Web Development  
+### 💡Web Development  
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
 </div>
 
-### Database Management  
+### 🗃Database Management  
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 </div>
 
-### IoT Development  
+### 🔧IoT Development  
 <div align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white">
@@ -84,7 +84,7 @@ I am a dedicated AI and data science professional with a deep passion for unlock
   <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white">
 </div>
 
-### Operating Systems  
+### 🔹Operating Systems  
 <div align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
