@@ -2,9 +2,9 @@
   <img src="banner.png" alt="Profile Banner" width="100%">
 </div>
 
-# [Your Full Name]  
+# TKM  
 <div align="center">
-  <i>AI Enthusiast | IoT Developer | Full-Stack Technologist</i>  
+  <i>AI Enthusiast | ML | Full-Stack Technologist</i>  
   <br>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-FF6F61?style=flat-square&logo=gmail"></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"></a>
@@ -16,7 +16,7 @@
 <div align="center">
   <i>Driven by a passion for artificial intelligence and innovative technology</i>
 </div>  
-I am a versatile developer and AI enthusiast with expertise spanning machine learning, IoT, and data science. I thrive on building intelligent systems—whether it’s training neural networks with TensorFlow, crafting IoT solutions with Raspberry Pi, or analyzing data with Pandas. My mission is to harness technology to solve real-world problems with creativity and precision.
+I am a versatile developer and AI enthusiast with expertise spanning machine learning, computer vision, and data science. I thrive on building intelligent systems—whether it’s training neural networks with TensorFlow, crafting IoT solutions with Raspberry Pi, or analyzing data with Pandas. My mission is to harness technology to solve real-world problems with creativity and precision.
 
 ---
 
@@ -62,9 +62,7 @@ I am a versatile developer and AI enthusiast with expertise spanning machine lea
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=flat-square&logo=google&logoColor=white">
 </div>  
-- Machine Learning Algorithms  
-- Natural Language Processing  
-- Data Processing & Cloud Services  
+
 
 ### Data Analysis  
 <div align="center">
@@ -74,8 +72,7 @@ I am a versatile developer and AI enthusiast with expertise spanning machine lea
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white">
 </div>  
-- Formats: CSV, Excel, JSON, Parquet  
-- APIs, SciPy  
+
 
 ### Software Development Tools  
 <div align="center">
@@ -94,33 +91,20 @@ I am a versatile developer and AI enthusiast with expertise spanning machine lea
 
 ---
 
-## Featured Projects  
-<div align="center">
-  <i>Where passion meets innovation</i>
-</div>
-
-| Project                  | Description                                      | Tech Stack               | Repository                          |  
-|--------------------------|-------------------------------------------------|--------------------------|-------------------------------------|  
-| **Smart IoT Monitor**    | An IoT system for real-time environmental monitoring. | Raspberry Pi, MQTT, Python | [Explore](#)             |  
-| **AI Vision Detector**   | A computer vision model for object detection.        | TensorFlow, OpenCV, MediaPipe | [Explore](#)         |  
-| **Data Insights Dashboard** | Interactive data visualization platform.         | Pandas, Plotly, JavaScript | [Explore](#)            |  
-
----
 
 ## Contributions  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=TKM03&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKM03&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages">
 </div>
 
 ---
 
 ## Connect With Me  
 <div align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-FF6F61?style=for-the-badge&logo=gmail"></a>  
+  <a href="mailto:kitmingtong147@gmail.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-FF6F61?style=for-the-badge&logo=gmail"></a>  
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>  
-  <a href="https://your-portfolio-website.com"><img src="https://img.shields.io/badge/Portfolio-Visit-2E8B57?style=for-the-badge&logo=web"></a>
 </div>  
 <br>
 <div align="center">
