@@ -105,10 +105,10 @@ I am a dedicated AI and data science professional with a deep passion for unlock
 ## 🌟 Featured Projects
 
 | Project                     | Description                                      | Tech Stack                      | Repository                          |
-|-----------------------------|--------------------------------------------------|---------------------------------|-------------------------------------|
+|-----------------------------|--------------------------------------------------|----------------------------------|-------------------------------------|
 | **FYP**                     | Real-time object detection using NAO robot.      | OpenCV, MediaPipe                 | [🔗 Explore](https://github.com/TKM03/FYP)         |
-| **NLP Sentiment Engine**    | Text sentiment analysis with 92% accuracy.       | Scikit-Learn, Pandas           | [🔗 Explore](#)            |
-| **Predictive Analytics Dashboard** | Interactive trend forecasting visualization. | Plotly, NumPy, Matplotlib      | [🔗 Explore](#)       |
+| **WEB SCRAPING**            | Automated scrape the data at specific website.   | Gradio, pandas, webdriver           | [🔗 Explore]((https://github.com/TKM03/WebScrape))            |
+| **DIAMOND PRICE PREDICTION** | Predict the price of the diamond.               | joblib, pandas, seaborn, matplotlib      | [🔗 Explore](https://github.com/TKM03/DATA-SCIENCE)       |
 
 ---
 
