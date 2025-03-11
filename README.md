@@ -56,7 +56,7 @@ I am a dedicated AI and data science professional with a deep passion for unlock
   <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white">
 </div>
 
-### AI & Machine Learning  
+### 🤖AI & Machine Learning  
 <div align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
@@ -65,7 +65,7 @@ I am a dedicated AI and data science professional with a deep passion for unlock
 </div>  
 
 
-### Data Analysis  
+### 📊Data Analysis  
 <div align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
@@ -75,7 +75,7 @@ I am a dedicated AI and data science professional with a deep passion for unlock
 </div>  
 
 
-### Software Development Tools  
+### 💻Software Development Tools  
 <div align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
@@ -99,6 +99,16 @@ I am a dedicated AI and data science professional with a deep passion for unlock
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKM03&layout=compact&theme=midnight-purple&hide_border=true" alt="Top Languages">
 </div>
+
+---
+
+## 🌟 Featured Projects
+
+| Project                     | Description                                      | Tech Stack                      | Repository                          |
+|-----------------------------|--------------------------------------------------|---------------------------------|-------------------------------------|
+| **FYP**                     | Real-time object detection using NAO robot.      | OpenCV, MediaPipe                 | [🔗 Explore](https://github.com/TKM03/FYP)         |
+| **NLP Sentiment Engine**    | Text sentiment analysis with 92% accuracy.       | Scikit-Learn, Pandas           | [🔗 Explore](#)            |
+| **Predictive Analytics Dashboard** | Interactive trend forecasting visualization. | Plotly, NumPy, Matplotlib      | [🔗 Explore](#)       |
 
 ---
 
