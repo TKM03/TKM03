@@ -4,9 +4,9 @@
 
 # TKM  
 <div align="center">
-  <i>AI Enthusiast | ML | Full-Stack Technologist</i>  
+  <i>AI & Machine Learning Specialist | Data Science Enthusiast</i>  
   <br>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-FF6F61?style=flat-square&logo=gmail"></a>
+  <a href="mailto:kitmingtong147@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-FF6F61?style=flat-square&logo=gmail"></a>
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"></a>
 </div>
 
@@ -108,5 +108,5 @@ I am a versatile developer and AI enthusiast with expertise spanning machine lea
 </div>  
 <br>
 <div align="center">
-  <i>“Empowering the future with AI, IoT, and data-driven solutions.”</i>
+  <i>“Empowering the future with AI, ML, and data-driven solutions.”</i>
 </div>
