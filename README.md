@@ -16,7 +16,7 @@
 <div align="center">
   <i>Driven by a passion for artificial intelligence and innovative technology</i>
 </div>  
-I am a versatile developer and AI enthusiast with expertise spanning machine learning, computer vision, and data science. I thrive on building intelligent systems—whether it’s training neural networks with TensorFlow, crafting IoT solutions with Raspberry Pi, or analyzing data with Pandas. My mission is to harness technology to solve real-world problems with creativity and precision.
+I am a dedicated AI and data science professional with a deep passion for unlocking insights through machine learning and advanced analytics. My expertise lies in crafting neural networks, mastering natural language processing, and delivering actionable data solutions using tools like TensorFlow, Scikit-Learn, and Pandas. I’m driven to push the boundaries of artificial intelligence and shape the future with data.
 
 ---
 
