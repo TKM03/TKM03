@@ -8,7 +8,7 @@
   <i>AI & Machine Learning Specialist | Data Science Enthusiast</i>  
   <br>
   <a href="mailto:kitmingtong147@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-FF6F61?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/tong-kit-ming-63620329a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin"></a>
 </div>
 
 ---
