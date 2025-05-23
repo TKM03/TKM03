@@ -115,7 +115,7 @@ I am a dedicated AI and data science professional with a deep passion for unlock
 ## Connect With Me  
 <div align="center">
   <a href="mailto:kitmingtong147@gmail.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-FF6F61?style=for-the-badge&logo=gmail"></a>  
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>  
+  <a href=""><img src="https://img.shields.io/badge/LinkedIn-Your%20Profile-0A66C2?style=for-the-badge&logo=linkedin"></a>  
 </div>  
 <br>
 <div align="center">
